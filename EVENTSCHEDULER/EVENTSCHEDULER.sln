@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EVENTSCHEDULER", "EVENTSCHEDULER\EVENTSCHEDULER.csproj", "{E526A2BE-0C13-4280-9F27-3DD5400DAB13}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E526A2BE-0C13-4280-9F27-3DD5400DAB13}.Debug|x86.ActiveCfg = Debug|x86
+		{E526A2BE-0C13-4280-9F27-3DD5400DAB13}.Debug|x86.Build.0 = Debug|x86
+		{E526A2BE-0C13-4280-9F27-3DD5400DAB13}.Release|x86.ActiveCfg = Release|x86
+		{E526A2BE-0C13-4280-9F27-3DD5400DAB13}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
